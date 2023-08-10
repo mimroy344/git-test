@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/git-test/static/css/main.bf538fe7.css",
+    "main.js": "/git-test/static/js/main.8fa13e48.js",
+    "static/media/HeroImage.jpg": "/git-test/static/media/HeroImage.f23d14d212b34f19d8a7.jpg",
+    "index.html": "/git-test/index.html",
+    "main.bf538fe7.css.map": "/git-test/static/css/main.bf538fe7.css.map",
+    "main.8fa13e48.js.map": "/git-test/static/js/main.8fa13e48.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.8fa13e48.js"
+  ]
+}
